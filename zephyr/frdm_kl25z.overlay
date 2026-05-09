@@ -1,0 +1,4 @@
+&gpioe {
+status = "okay";
+label = "GPIO_4";
+};
